@@ -6,3 +6,5 @@ sqlite
 
 
 Thank you.. :)
+
+final copy
